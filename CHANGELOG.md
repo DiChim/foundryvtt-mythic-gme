@@ -1,3 +1,17 @@
+### 2.5.11
+* Update: Scene Unfolding Machine Rev.3
+
+### 2.5.10
+* Update: Incorporates recently released Scene Unfolding Machine
+
+### 2.5.9
+* Update: Plot unfolding machine to final release
+* Bugfix: Mythic panel no longer closes when reconfiguring it
+
+### 2.5.8
+* Update: Plot unfolding machine to Revision 25
+* Enhancement: Added a minimize button to the panel
+
 ### 2.5.7
 * Update: Plot unfolding machine to Revision 23
 
